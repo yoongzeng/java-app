@@ -1,4 +1,3 @@
-package com.sanumala;
 public class helloworld
 {   
       public static void main(String[] args)
